@@ -1,0 +1,4 @@
+Capital: Buenos Aires
+Language: Spanish
+Population: 47,067,441
+Currency: ARS
