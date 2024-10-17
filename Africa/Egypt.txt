@@ -1,0 +1,4 @@
+Capital: Cairo
+Language: Arabic
+Population: 107,785,000
+Currency: EGP
