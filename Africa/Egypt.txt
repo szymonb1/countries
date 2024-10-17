@@ -2,3 +2,6 @@ Capital: Cairo
 Language: Arabic
 Population: 107,785,000
 Currency: EGP
+Internet: .eg 
+Calling code: +20
+Drives on: right
