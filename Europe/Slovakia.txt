@@ -2,3 +2,4 @@ Capital: Bratislava
 Language: Slovak
 Population: 5,422,194
 Currency: EUR
+Internet: .sk 
