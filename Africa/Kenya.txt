@@ -1,0 +1,4 @@
+Capital: Nairobi
+Language: Swahili
+Population: 52,428,290
+Currency: KES
