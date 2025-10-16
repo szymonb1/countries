@@ -4,4 +4,3 @@ Population: 5,422,194
 Currency: EUR
 Flag: https://en.wikipedia.org/wiki/Slovakia#/media/File:Flag_of_Slovakia.svg
 Internet: .sk and .eu
-
