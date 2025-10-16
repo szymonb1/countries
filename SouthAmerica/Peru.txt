@@ -1,0 +1,4 @@
+Capital: Lima
+Language: Spanish
+Population: 34,352,720
+Currency: PEN
