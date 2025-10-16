@@ -2,4 +2,5 @@ Capital: Warsaw
 Language: Polish
 Population: 38,036,118
 Currency: PLN
+Internet: .pl
 Flag: https://en.wikipedia.org/wiki/Poland#/media/File:Flag_of_Poland.svg
