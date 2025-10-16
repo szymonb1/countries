@@ -3,3 +3,7 @@ Language: Arabic
 Population: 107,785,000
 Currency: EGP
 Flag: https://en.wikipedia.org/wiki/Egypt#/media/File:Flag_of_Egypt.svg
+Internet: .eg 
+Calling code: +20
+Drives on: right
+
