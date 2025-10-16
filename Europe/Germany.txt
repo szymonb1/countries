@@ -1,2 +1,4 @@
 Capital: Berlin
 Population: 82,719,540
+Language: German
+
